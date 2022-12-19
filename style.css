@@ -6,7 +6,7 @@ body {
   color: #40514E;
 }
 
-#profile-image {
+.profile #profile-image {
   max-width: 20%;
   margin: 20px;
 }
